@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "flood-ecospace",
+      "properties": {
+        "name": "Ecospace Bellandur ORR Low-Lying Tech Park Zone",
+        "risk_level": "Critical",
+        "elevation_m": 892.0,
+        "drainage_capacity_mm_hr": 28.0,
+        "vulnerability_score": 89,
+        "historical_waterlogging_cm": 70
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.675,
+              12.923
+            ],
+            [
+              77.692,
+              12.924
+            ],
+            [
+              77.691,
+              12.935
+            ],
+            [
+              77.674,
+              12.933
+            ],
+            [
+              77.675,
+              12.923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flood-silkboard",
+      "properties": {
+        "name": "Silk Board - BTM Low-Lying Drainage Sink",
+        "risk_level": "High",
+        "elevation_m": 901.0,
+        "drainage_capacity_mm_hr": 32.0,
+        "vulnerability_score": 79,
+        "historical_waterlogging_cm": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.618,
+              12.912
+            ],
+            [
+              77.632,
+              12.914
+            ],
+            [
+              77.631,
+              12.925
+            ],
+            [
+              77.617,
+              12.923
+            ],
+            [
+              77.618,
+              12.912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flood-rainbow-drive",
+      "properties": {
+        "name": "Sarjapur Rainbow Drive Catchment Area",
+        "risk_level": "Critical",
+        "elevation_m": 885.0,
+        "drainage_capacity_mm_hr": 22.0,
+        "vulnerability_score": 91,
+        "historical_waterlogging_cm": 80
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.695,
+              12.91
+            ],
+            [
+              77.712,
+              12.911
+            ],
+            [
+              77.711,
+              12.922
+            ],
+            [
+              77.694,
+              12.92
+            ],
+            [
+              77.695,
+              12.91
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "mumbai",
+  "name": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "center": [
+    19.076,
+    72.8777
+  ],
+  "zoom": 12,
+  "bounds": [
+    [
+      18.89,
+      72.77
+    ],
+    [
+      19.29,
+      72.99
+    ]
+  ],
+  "population": "21.7M",
+  "population_raw": 21700000,
+  "population_change": "+1.2% vs last month",
+  "traffic_load": 72,
+  "traffic_status": "High",
+  "average_speed": 28,
+  "speed_change": "-5%",
+  "flood_risk": "Medium",
+  "air_quality_aqi": 78,
+  "air_quality_status": "Moderate",
+  "emergency_response_min": 11.0,
+  "emergency_change": "-2 min",
+  "safety_score": 82,
+  "safety_status": "Moderate",
+  "estimated_cost_base": "\u20b92.4 Cr",
+  "rainfall_mm": 65.0,
+  "weather_desc": "Partly Cloudy, 31\u00b0C, 78% Humidity",
+  "active_scenario_default": {
+    "id": "sc-mum-1",
+    "name": "Road Closure \u2014 Western Express Highway",
+    "type": "Road Closure",
+    "road_id": "mum-weh",
+    "road_name": "Western Express Highway (WEH)",
+    "start_time": "10:15 AM",
+    "duration_days": 30,
+    "confidence": 82,
+    "status": "Running Simulation...",
+    "ai_insight": {
+      "summary": "Closing this road is likely to increase congestion by 18% in nearby corridors.",
+      "reasons": [
+        "Road capacity decreases by 35%",
+        "1,850 vehicles/hour are redirected into SV Road and Link Road",
+        "Two nearby intersections (Kalanagar & Milan) exceed 90% utilization"
+      ],
+      "recommendation": "Consider an alternate route via Eastern Express Highway & JVLR connector.",
+      "confidence": 82
+    }
+  }
+}

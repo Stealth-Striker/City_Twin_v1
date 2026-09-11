@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "flood-hindmata",
+      "properties": {
+        "name": "Hindmata - Dadar Lowland Zone",
+        "risk_level": "Critical",
+        "elevation_m": 3.2,
+        "drainage_capacity_mm_hr": 25.0,
+        "vulnerability_score": 88,
+        "historical_waterlogging_cm": 65
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.838,
+              19.012
+            ],
+            [
+              72.846,
+              19.012
+            ],
+            [
+              72.847,
+              19.022
+            ],
+            [
+              72.837,
+              19.021
+            ],
+            [
+              72.838,
+              19.012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flood-kurla",
+      "properties": {
+        "name": "Kurla West Mithi Flood Basin",
+        "risk_level": "Critical",
+        "elevation_m": 4.1,
+        "drainage_capacity_mm_hr": 30.0,
+        "vulnerability_score": 92,
+        "historical_waterlogging_cm": 85
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.868,
+              19.065
+            ],
+            [
+              72.885,
+              19.068
+            ],
+            [
+              72.888,
+              19.08
+            ],
+            [
+              72.869,
+              19.078
+            ],
+            [
+              72.868,
+              19.065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flood-milan",
+      "properties": {
+        "name": "Milan Subway & Santacruz Basin",
+        "risk_level": "High",
+        "elevation_m": 5.0,
+        "drainage_capacity_mm_hr": 35.0,
+        "vulnerability_score": 74,
+        "historical_waterlogging_cm": 50
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.839,
+              19.082
+            ],
+            [
+              72.852,
+              19.084
+            ],
+            [
+              72.851,
+              19.094
+            ],
+            [
+              72.838,
+              19.092
+            ],
+            [
+              72.839,
+              19.082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flood-bkc-low",
+      "properties": {
+        "name": "BKC G-Block Lowland",
+        "risk_level": "Medium",
+        "elevation_m": 6.8,
+        "drainage_capacity_mm_hr": 45.0,
+        "vulnerability_score": 54,
+        "historical_waterlogging_cm": 30
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86,
+              19.058
+            ],
+            [
+              72.875,
+              19.059
+            ],
+            [
+              72.873,
+              19.068
+            ],
+            [
+              72.858,
+              19.067
+            ],
+            [
+              72.86,
+              19.058
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

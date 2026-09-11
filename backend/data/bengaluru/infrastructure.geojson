@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "blr-victoria-hosp",
+      "properties": {
+        "id": "blr-victoria-hosp",
+        "name": "Victoria Hospital Complex, City Market",
+        "category": "Hospital",
+        "capacity": "1500 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Trauma & Emergency Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.575,
+          12.9634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-manipal-hosp",
+      "properties": {
+        "id": "blr-manipal-hosp",
+        "name": "Manipal Hospital, Old Airport Road",
+        "category": "Hospital",
+        "capacity": "650 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Tertiary Emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6487,
+          12.9587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-apollo-hosp",
+      "properties": {
+        "id": "blr-apollo-hosp",
+        "name": "Apollo Hospitals, Bannerghatta Road",
+        "category": "Hospital",
+        "capacity": "250 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Multi-organ Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5986,
+          12.8942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-fire-highgrounds",
+      "properties": {
+        "id": "blr-fire-highgrounds",
+        "name": "State Fire Command HQ, High Grounds",
+        "category": "Fire Station",
+        "capacity": "18 Fire Engines",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5873,
+          12.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-fire-ecity",
+      "properties": {
+        "id": "blr-fire-ecity",
+        "name": "Electronic City Industrial Fire Post",
+        "category": "Fire Station",
+        "capacity": "8 Fire Engines",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6654,
+          12.8512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-police-hq",
+      "properties": {
+        "id": "blr-police-hq",
+        "name": "Bengaluru City Police Commissionerate, Infantry Rd",
+        "category": "Police Station",
+        "capacity": "Central Operations",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5991,
+          12.9818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-police-hsr",
+      "properties": {
+        "id": "blr-police-hsr",
+        "name": "HSR Layout Police Sub-Division",
+        "category": "Police Station",
+        "capacity": "Traffic & Law Order",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6388,
+          12.9116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-ksr-station",
+      "properties": {
+        "id": "blr-ksr-station",
+        "name": "KSR Bengaluru City Railway Junction (Majestic)",
+        "category": "Railway Station",
+        "capacity": "450k daily passengers",
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5696,
+          12.9781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-metro-silkboard",
+      "properties": {
+        "id": "blr-metro-silkboard",
+        "name": "Central Silk Board Multi-Modal Interchange (Yellow & Blue Line)",
+        "category": "Metro Station",
+        "capacity": "Transit Hub",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6238,
+          12.9176
+        ]
+      }
+    }
+  ]
+}

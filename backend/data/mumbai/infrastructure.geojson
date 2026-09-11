@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mum-kem-hosp",
+      "properties": {
+        "id": "mum-kem-hosp",
+        "name": "KEM Hospital & Medical College, Parel",
+        "category": "Hospital",
+        "capacity": "1800 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Level 1 Trauma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8436,
+          19.0028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-lilavati-hosp",
+      "properties": {
+        "id": "mum-lilavati-hosp",
+        "name": "Lilavati Hospital & Research Centre, Bandra",
+        "category": "Hospital",
+        "capacity": "320 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Cardiac Care Trauma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.829,
+          19.0514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-hinduja-hosp",
+      "properties": {
+        "id": "mum-hinduja-hosp",
+        "name": "P.D. Hinduja National Hospital, Mahim",
+        "category": "Hospital",
+        "capacity": "400 Beds",
+        "status": "Optimal",
+        "emergency_unit": "Super Specialty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8398,
+          19.0334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-fire-byculla",
+      "properties": {
+        "id": "mum-fire-byculla",
+        "name": "Mumbai Fire Brigade Headquarters, Byculla",
+        "category": "Fire Station",
+        "capacity": "24 Fire Engines",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8327,
+          18.976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-fire-bandra",
+      "properties": {
+        "id": "mum-fire-bandra",
+        "name": "Bandra Fire Command Station",
+        "category": "Fire Station",
+        "capacity": "12 Fire Engines",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8385,
+          19.0594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-police-bkc",
+      "properties": {
+        "id": "mum-police-bkc",
+        "name": "BKC Regional Police Division",
+        "category": "Police Station",
+        "capacity": "Rapid Response Patrols",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8649,
+          19.0671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-police-bandra",
+      "properties": {
+        "id": "mum-police-bandra",
+        "name": "Bandra West Police Station",
+        "category": "Police Station",
+        "capacity": "City Patrol",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8378,
+          19.0543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-csmt",
+      "properties": {
+        "id": "mum-csmt",
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+        "category": "Railway Station",
+        "capacity": "1.2M daily commuters",
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8354,
+          18.9398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-metro-bkc",
+      "properties": {
+        "id": "mum-metro-bkc",
+        "name": "BKC Metro Station (Line 3 Aqua Line)",
+        "category": "Metro Station",
+        "capacity": "Underground Hub",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8679,
+          19.0657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mum-school-dhiri",
+      "properties": {
+        "id": "mum-school-dhiri",
+        "name": "Dhirubhai Ambani International School, BKC",
+        "category": "School",
+        "capacity": "1200 Students",
+        "status": "In Session"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8688,
+          19.0682
+        ]
+      }
+    }
+  ]
+}

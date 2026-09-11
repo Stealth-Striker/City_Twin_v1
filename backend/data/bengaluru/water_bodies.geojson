@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "blr-bellandur-lake",
+      "properties": {
+        "name": "Bellandur Lake Wetland",
+        "type": "Lake / Drainage Catchment",
+        "risk_factor": "Overflow & Frothing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.652,
+              12.932
+            ],
+            [
+              77.659,
+              12.9315
+            ],
+            [
+              77.668,
+              12.9325
+            ],
+            [
+              77.678,
+              12.934
+            ],
+            [
+              77.6835,
+              12.938
+            ],
+            [
+              77.687,
+              12.943
+            ],
+            [
+              77.685,
+              12.948
+            ],
+            [
+              77.676,
+              12.949
+            ],
+            [
+              77.667,
+              12.9465
+            ],
+            [
+              77.658,
+              12.941
+            ],
+            [
+              77.6535,
+              12.936
+            ],
+            [
+              77.652,
+              12.932
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "blr-ulsoor-lake",
+      "properties": {
+        "name": "Ulsoor Lake",
+        "type": "Urban Lake Reservoir",
+        "risk_factor": "Catchment Basin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.618,
+              12.979
+            ],
+            [
+              77.627,
+              12.981
+            ],
+            [
+              77.625,
+              12.988
+            ],
+            [
+              77.616,
+              12.985
+            ],
+            [
+              77.618,
+              12.979
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

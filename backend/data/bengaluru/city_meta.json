@@ -1,0 +1,59 @@
+{
+  "id": "bengaluru",
+  "name": "Bengaluru",
+  "state": "Karnataka",
+  "country": "India",
+  "center": [
+    12.9716,
+    77.5946
+  ],
+  "zoom": 12,
+  "bounds": [
+    [
+      12.8,
+      77.45
+    ],
+    [
+      13.14,
+      77.78
+    ]
+  ],
+  "population": "13.6M",
+  "population_raw": 13600000,
+  "population_change": "+1.8% vs last month",
+  "traffic_load": 78,
+  "traffic_status": "Severe",
+  "average_speed": 19,
+  "speed_change": "-7%",
+  "flood_risk": "High",
+  "air_quality_aqi": 68,
+  "air_quality_status": "Moderate",
+  "emergency_response_min": 14.5,
+  "emergency_change": "+1.5 min",
+  "safety_score": 76,
+  "safety_status": "Moderate",
+  "estimated_cost_base": "\u20b93.1 Cr",
+  "rainfall_mm": 42.0,
+  "weather_desc": "Scattered Clouds, 26\u00b0C, 62% Humidity",
+  "active_scenario_default": {
+    "id": "sc-blr-1",
+    "name": "Traffic Diversion \u2014 Outer Ring Road (ORR)",
+    "type": "Traffic Diversion",
+    "road_id": "blr-orr-east",
+    "road_name": "Outer Ring Road (ORR - Silk Board to Marathahalli)",
+    "start_time": "09:30 AM",
+    "duration_days": 45,
+    "confidence": 86,
+    "status": "Running Simulation...",
+    "ai_insight": {
+      "summary": "Peak hour bottleneck reduction along Ecospace corridor requires rapid feeder deployment.",
+      "reasons": [
+        "Tech park peak inflow exceeds 3,200 veh/hr at Bellandur junction",
+        "Diversion through Sarjapur road relieves 28% of main carriageway stress",
+        "Emergency response times to Manipal Hospital improve by 1.8 min"
+      ],
+      "recommendation": "Implement reversible express bus lanes between 08:30 and 11:30 AM.",
+      "confidence": 86
+    }
+  }
+}
